@@ -56,10 +56,10 @@ discount impact, and business insights.
 ## 📂 Project Structure
 Superstore-Sales-Analysis/
 │
+├── README.md
 ├── superstore_analysis.ipynb
 ├── superstore_data.csv
-├── superstore_analyzed.csv
-└── README.md
+└── superstore_analyzed.csv
 
 ---
 
