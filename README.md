@@ -73,20 +73,20 @@ Superstore-Sales-Analysis/
 
 ## 📸 Results
 
-### National Totals
-[add screenshot here]
+### Ship-mode Analysis
+<img width="726" height="297" alt="Image" src="https://github.com/user-attachments/assets/1a4b8511-55ec-4a54-b42a-3eaa2a6d7855" />
 
-### Top Categories by Sales
-[add screenshot here]
+## Yearly-wise Profits
+<img width="435" height="287" alt="Image" src="https://github.com/user-attachments/assets/4ea77b67-12ba-4be6-b247-2b419aa4bd6d" />
 
 ### Segment Analysis
-[add screenshot here]
+<img width="767" height="232" alt="Image" src="https://github.com/user-attachments/assets/c2ff6e43-aef6-41d0-bca7-5ee5c62b939e" />
 
-### Year-wise Trend
-[add screenshot here]
+### Region Analysis
+<img width="782" height="681" alt="Image" src="https://github.com/user-attachments/assets/113f63da-cbc2-4e21-b35a-0961f3c67ccc" />
 
 ### Top 5 Loss-making Orders
-[add screenshot here]
+<img width="858" height="287" alt="Image" src="https://github.com/user-attachments/assets/85b1b002-f004-49e3-96f5-e58c8f9639bb" />
 
 ---
 
